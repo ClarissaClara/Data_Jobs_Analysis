@@ -186,11 +186,6 @@ This is my first SQL project outside of coursework. Throughout this project, I b
 
 3. Combining data from multiple tables using LEFT JOIN and INNER JOIN.
 # Conclusions
-Here’s a strong, concise **README-ready conclusion**:
-
----
-
-## Conclusion
 
 This project provided valuable insights into the data analyst job market, particularly in identifying high-paying roles, in-demand skills, and the overlap between demand and compensation. The analysis shows that while foundational skills like SQL, Python, and data visualization tools are essential, higher-paying opportunities often require additional expertise in cloud platforms, big data technologies, and more advanced technical tools.
 
